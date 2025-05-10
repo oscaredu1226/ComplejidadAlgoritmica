@@ -11,7 +11,7 @@ El grafo creado en este proyecto representa la red de distribución entre **poll
 
 ### **2. Algoritmos Utilizados**
 Para optimizar las rutas de distribución, se utilizaron los siguientes algoritmos y técnicas:
-- **Técnicas de Recorrido y Búsquedas en Grafos (Dijkstra o A\*)**: Para encontrar las rutas más cortas entre pollerías.
+- **Técnicas de Recorrido y Búsquedas en Grafos (Dijkstra)**: Para encontrar las rutas más cortas entre pollerías.
 - **Programación Dinámica (Problema del Viajante de Comercio - TSP)**: Para calcular la ruta más corta que pase por todas las pollerías.
 - **Bellman-Ford**: Para optimizar rutas desde un único origen hacia todas las pollerías en la red.
 
